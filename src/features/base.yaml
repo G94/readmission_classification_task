@@ -1,0 +1,32 @@
+---
+features_xgb
+  - num_lab_procedures
+  - num_procedures
+  - num_medications
+  - number_outpatient
+  - number_emergency
+  - number_inpatient
+  - mean_age
+  - repaglinide_encoded_ordinal
+  - nateglinide_encoded_ordinal
+  - chlorpropamide_encoded_ordinal
+  - glimepiride_encoded_ordinal
+  - acetohexamide_encoded_ordinal
+  - glipizide_encoded_ordinal
+  - glyburide_encoded_ordinal
+  - tolbutamide_encoded_ordinal
+  - pioglitazone_encoded_ordinal
+  - rosiglitazone_encoded_ordinal
+  - acarbose_encoded_ordinal
+  - miglitol_encoded_ordinal
+  - troglitazone_encoded_ordinal
+  - tolazamide_encoded_ordinal
+  - examide_encoded_ordinal
+  - citoglipton_encoded_ordinal
+  - insulin_encoded_ordinal
+  - glyburide-metformin_encoded_ordinal
+  - glipizide-metformin_encoded_ordinal
+  - glimepiride-pioglitazone_encoded_ordinal
+  - metformin-rosiglitazone_encoded_ordinal
+  - metformin-pioglitazone_encoded_ordinal
+  - admission_type_id_ordinal
